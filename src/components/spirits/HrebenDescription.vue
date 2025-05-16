@@ -28,7 +28,7 @@
     <br />
     <p>
       <Badge severity="secondary" value="2" />
-      Jakmile však fantom zvětří přítomnost člověka v jeho rajonu, nenchá si to líbit a ukáže mu,
+      Jakmile však fantom zvětří přítomnost člověka v jeho rajonu, nenechá si to líbit a ukáže mu,
       zač je toho loket.
     </p>
 
